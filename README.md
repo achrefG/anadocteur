@@ -1,4 +1,4 @@
-# anadocteur
+# ANADocteur
 <h1>logiciel de gestion de cabinet médicale</h1>
 <h2>contexte du projet</h2>
 <p>
